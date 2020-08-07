@@ -1,0 +1,37 @@
+h1{
+    color: #e62062;
+}
+h2{
+    text-align: center;
+    color: #e62062;
+}
+p{
+    color: #e62062;
+    text-align: center;
+    font-size: large;
+}
+/* *{
+    border: solid;
+} */
+ .header{
+    background-color:#838383;
+    display: flex;
+    justify-content: space-between;
+ }
+ .footer{
+     background-color:#ad9d9d;
+     display: flex;
+     justify-content: flex-end;
+ }
+.grid{
+    display: flex;
+    background-color: #eca3a3;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item p{
+    text-align: left;
+}
+body{
+    background-color: #dfd3c3;
+}
